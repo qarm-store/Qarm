@@ -1,0 +1,34 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fff;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+}
+header {
+  background-color: #000;
+  color: #D4AF37;
+  text-align: center;
+  padding: 20px;
+}
+.products, .payment {
+  padding: 30px;
+  max-width: 800px;
+  margin: auto;
+}
+.products h2, .payment h2 {
+  color: #D4AF37;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc;
+}
+a {
+  color: #D4AF37;
+  text-decoration: none;
+}
